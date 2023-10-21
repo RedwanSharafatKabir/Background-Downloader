@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">@color/primary1</item>
+
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primary1</item>
+        <item name="colorPrimaryVariant">@color/overlay_dark_30</item>
+        <item name="colorOnPrimary">@color/overlay_dark_30</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/overlay_dark_30</item>
+        <item name="colorSecondaryVariant">@color/overlay_dark_30</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">@color/primary1</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+</resources>

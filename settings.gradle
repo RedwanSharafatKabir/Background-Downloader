@@ -1,2 +1,2 @@
-rootProject.name = "Background-Download"
+rootProject.name = "Background-Downloader"
 include ':app'
